@@ -1,3 +1,6 @@
 [submodule "fraud-detection"]
 	path = fraud-detection
 	url = https://github.com/Kgicio/fraud-detection.git
+[submodule "Retails-sales-EDA"]
+	path = Retails-sales-EDA
+	url = https://github.com/Kgicio/Retails-sales-EDA.git
